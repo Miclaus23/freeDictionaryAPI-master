@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/52ce47e7-294f-4074-be88-c06face2ea28/resourceGroups/lexios-dev-rg/providers/Microsoft.Web/sites/lexiosdevdictionary",
+    "appService.deploySubpath": "."
+}
